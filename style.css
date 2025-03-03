@@ -4,9 +4,8 @@ section{
     justify-content: center;
     background-color: hsl(0, 0%, 100%);
     margin-top: 20px;
-    width: 57%;
-    height: 660px;
     border-radius: 20px;
+    flex-direction:row;
 
 }
 section{
@@ -49,4 +48,7 @@ button{
     font-size: 20px;
     background-color: hsl(234, 29%, 20%);
     color: white;
+}
+.container{
+    padding: 50px;
 }
